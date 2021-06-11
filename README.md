@@ -10,9 +10,9 @@ Visit [AB-Sens](https://ab-sens.com) for more information about the sensors.
 
 The source code is released under a [GPL-3.0 license](TactileSensorUI/LICENSE).
 
-**Author: Alexandre Bernier<br />
-Affiliation: [AB-Sens](http://ab-sens.com)<br />
-Maintainer: Alexandre Bernier, alexandre@ab-sens.com**
+**Author: Shahbaz Youssefi<br />
+Maintainer: Alexandre Bernier, alexandre@ab-sens.com<br />
+Affiliation: [AB-Sens](http://ab-sens.com)**
 
 The TactileSensorUI software has been tested on Ubuntu 20.04 with Qt 5.15.
 
